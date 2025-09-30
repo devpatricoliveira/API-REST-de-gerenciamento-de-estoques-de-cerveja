@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ```markdown
 # 🍻 API REST de Gerenciamento de Estoques de Cerveja
@@ -109,3 +110,7 @@ Patric Oliveira
 Este projeto é distribuído sob a licença MIT. Veja o arquivo LICENSE para mais informações.
 
 🚀 Aprenda, pratique e compartilhe!
+=======
+# API-REST-de-gerenciamento-de-estoques-de-cerveja
+Nesta live coding, aprendemos a testar unitariamente uma API REST de gerenciamento de estoques de cerveja. Foram utilizados JUnit e Mockito para criar testes unitários, explicando seus conceitos e vantagens. Também foi demonstrado o uso de TDD para desenvolver funcionalidades da API de forma eficiente e segura.
+>>>>>>> f22dd92330717be3da2ce255ffc1b4d8ba96edcc
