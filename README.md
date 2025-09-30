@@ -1,10 +1,8 @@
-<<<<<<< HEAD
 
-```markdown
 # 🍻 API REST de Gerenciamento de Estoques de Cerveja
 
 Desenvolvido por **Patric Oliveira**  
-📚 Projeto da **Digital Innovation One (DIO)**  
+📚 Projeto da **DIO**  
 🎓 **Expert Class** – Desenvolvimento de Testes Unitários para API REST
 
 ---
@@ -46,7 +44,7 @@ Durante a sessão, foram explorados os seguintes assuntos:
 ### 🎯 Executar a Aplicação
 
 Certifique-se de estar na raiz do projeto e execute:
-```
+
 
 ```bash
 mvn spring-boot:run
@@ -104,7 +102,7 @@ Acesse os slides utilizados como roteiro da live coding:
 👨‍💻 Autor
 Patric Oliveira
 💼 Desenvolvedor Java | Entusiasta de Testes e Boas Práticas
-📡 Projeto desenvolvido para a comunidade da Digital Innovation One
+📡 Projeto PcD Tech Bradesco - Java & QA Developer
 
 📝 Licença
 Este projeto é distribuído sob a licença MIT. Veja o arquivo LICENSE para mais informações.
@@ -113,4 +111,3 @@ Este projeto é distribuído sob a licença MIT. Veja o arquivo LICENSE para mai
 =======
 # API-REST-de-gerenciamento-de-estoques-de-cerveja
 Nesta live coding, aprendemos a testar unitariamente uma API REST de gerenciamento de estoques de cerveja. Foram utilizados JUnit e Mockito para criar testes unitários, explicando seus conceitos e vantagens. Também foi demonstrado o uso de TDD para desenvolver funcionalidades da API de forma eficiente e segura.
->>>>>>> f22dd92330717be3da2ce255ffc1b4d8ba96edcc
